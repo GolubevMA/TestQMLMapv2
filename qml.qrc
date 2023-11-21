@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fshader.glsl</file>
+        <file>fshader_cube_map.glsl</file>
+        <file>vshader.glsl</file>
+        <file>vshader_cube_map.glsl</file>
+        <file>main.qml</file>
+        <file>MyButton.qml</file>
+        <file>SimplePage.qml</file>
+    </qresource>
+</RCC>
